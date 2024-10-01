@@ -1,0 +1,17 @@
+{
+  "name": "maaz-http-server",
+  "version": "1.0.0",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "uuid": "^10.0.0",
+    "uuid4": "^2.0.3"
+  }
+}
